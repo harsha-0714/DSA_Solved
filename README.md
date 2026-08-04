@@ -24,6 +24,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/harsha-0714/DSA_Solved/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harsha-0714/DSA_Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harsha-0714/DSA_Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Tree
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harsha-0714/DSA_Solved/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/harsha-0714/DSA_Solved/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
