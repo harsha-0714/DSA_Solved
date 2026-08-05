@@ -55,6 +55,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0993-cousins-in-binary-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harsha-0714/DSA_Solved/tree/master/2360-longest-cycle-in-a-graph) |
+| [3310-remove-methods-from-project](https://github.com/harsha-0714/DSA_Solved/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0226-invert-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0226-invert-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0993-cousins-in-binary-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harsha-0714/DSA_Solved/tree/master/2360-longest-cycle-in-a-graph) |
+| [3310-remove-methods-from-project](https://github.com/harsha-0714/DSA_Solved/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/harsha-0714/DSA_Solved/tree/master/2360-longest-cycle-in-a-graph) |
+| [3310-remove-methods-from-project](https://github.com/harsha-0714/DSA_Solved/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
