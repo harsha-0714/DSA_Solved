@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harsha-0714/DSA_Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/harsha-0714/DSA_Solved/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/harsha-0714/DSA_Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Queue
 |  |
 | ------- |
