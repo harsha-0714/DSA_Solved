@@ -59,6 +59,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/harsha-0714/DSA_Solved/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0993-cousins-in-binary-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harsha-0714/DSA_Solved/tree/master/2360-longest-cycle-in-a-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/harsha-0714/DSA_Solved/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -71,6 +72,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/harsha-0714/DSA_Solved/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0993-cousins-in-binary-tree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harsha-0714/DSA_Solved/tree/master/2360-longest-cycle-in-a-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/harsha-0714/DSA_Solved/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -142,6 +144,7 @@
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/harsha-0714/DSA_Solved/tree/master/0797-all-paths-from-source-to-target) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harsha-0714/DSA_Solved/tree/master/2360-longest-cycle-in-a-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/harsha-0714/DSA_Solved/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
@@ -180,4 +183,8 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/harsha-0714/DSA_Solved/tree/master/0797-all-paths-from-source-to-target) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
