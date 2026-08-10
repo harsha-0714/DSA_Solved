@@ -7,6 +7,7 @@
 | [0037-sudoku-solver](https://github.com/harsha-0714/DSA_Solved/tree/master/0037-sudoku-solver) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/harsha-0714/DSA_Solved/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/harsha-0714/DSA_Solved/tree/master/0239-sliding-window-maximum) |
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
@@ -55,6 +56,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harsha-0714/DSA_Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harsha-0714/DSA_Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/harsha-0714/DSA_Solved/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harsha-0714/DSA_Solved/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
@@ -71,6 +73,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harsha-0714/DSA_Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/harsha-0714/DSA_Solved/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/harsha-0714/DSA_Solved/tree/master/0797-all-paths-from-source-to-target) |
@@ -171,6 +174,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/harsha-0714/DSA_Solved/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
 ## Algorithm X
 |  |
@@ -191,6 +195,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Two Pointers
 |  |
