@@ -17,11 +17,13 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harsha-0714/DSA_Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harsha-0714/DSA_Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/harsha-0714/DSA_Solved/tree/master/0025-reverse-nodes-in-k-group) |
+| [0509-fibonacci-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,4 +227,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/harsha-0714/DSA_Solved/tree/master/0743-network-delay-time) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
