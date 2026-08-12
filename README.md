@@ -12,6 +12,7 @@
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
 | [2951-find-the-peaks](https://github.com/harsha-0714/DSA_Solved/tree/master/2951-find-the-peaks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harsha-0714/DSA_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/3731-find-missing-elements) |
 ## Math
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harsha-0714/DSA_Solved/tree/master/0239-sliding-window-maximum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harsha-0714/DSA_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/harsha-0714/DSA_Solved/tree/master/0037-sudoku-solver) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harsha-0714/DSA_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/3731-find-missing-elements) |
 ## Sorting
