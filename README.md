@@ -67,6 +67,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harsha-0714/DSA_Solved/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/harsha-0714/DSA_Solved/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/harsha-0714/DSA_Solved/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/harsha-0714/DSA_Solved/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0993-cousins-in-binary-tree) |
@@ -83,6 +84,7 @@
 | [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/harsha-0714/DSA_Solved/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/harsha-0714/DSA_Solved/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/harsha-0714/DSA_Solved/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0993-cousins-in-binary-tree) |
@@ -165,6 +167,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/harsha-0714/DSA_Solved/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/harsha-0714/DSA_Solved/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/harsha-0714/DSA_Solved/tree/master/0797-all-paths-from-source-to-target) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harsha-0714/DSA_Solved/tree/master/2360-longest-cycle-in-a-graph) |
@@ -213,6 +216,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/harsha-0714/DSA_Solved/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Two Pointers
 |  |
