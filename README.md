@@ -13,6 +13,7 @@
 | [0733-flood-fill](https://github.com/harsha-0714/DSA_Solved/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/harsha-0714/DSA_Solved/tree/master/0994-rotting-oranges) |
+| [1386-cinema-seat-allocation](https://github.com/harsha-0714/DSA_Solved/tree/master/1386-cinema-seat-allocation) |
 | [2951-find-the-peaks](https://github.com/harsha-0714/DSA_Solved/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harsha-0714/DSA_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/harsha-0714/DSA_Solved/tree/master/0037-sudoku-solver) |
+| [1386-cinema-seat-allocation](https://github.com/harsha-0714/DSA_Solved/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harsha-0714/DSA_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harsha-0714/DSA_Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -239,6 +241,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/harsha-0714/DSA_Solved/tree/master/1386-cinema-seat-allocation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harsha-0714/DSA_Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Shortest Path
 |  |
@@ -253,4 +256,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/harsha-0714/DSA_Solved/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/harsha-0714/DSA_Solved/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
