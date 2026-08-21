@@ -10,6 +10,7 @@
 | [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/harsha-0714/DSA_Solved/tree/master/0239-sliding-window-maximum) |
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harsha-0714/DSA_Solved/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/harsha-0714/DSA_Solved/tree/master/0994-rotting-oranges) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/harsha-0714/DSA_Solved/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harsha-0714/DSA_Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
@@ -90,6 +92,7 @@
 | [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/harsha-0714/DSA_Solved/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/harsha-0714/DSA_Solved/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/harsha-0714/DSA_Solved/tree/master/0743-network-delay-time) |
@@ -206,6 +209,7 @@
 | [0037-sudoku-solver](https://github.com/harsha-0714/DSA_Solved/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harsha-0714/DSA_Solved/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/harsha-0714/DSA_Solved/tree/master/0994-rotting-oranges) |
 ## Algorithm X
