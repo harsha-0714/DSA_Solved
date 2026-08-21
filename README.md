@@ -15,6 +15,7 @@
 | [0733-flood-fill](https://github.com/harsha-0714/DSA_Solved/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/harsha-0714/DSA_Solved/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/harsha-0714/DSA_Solved/tree/master/1020-number-of-enclaves) |
 | [1386-cinema-seat-allocation](https://github.com/harsha-0714/DSA_Solved/tree/master/1386-cinema-seat-allocation) |
 | [2951-find-the-peaks](https://github.com/harsha-0714/DSA_Solved/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harsha-0714/DSA_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -81,6 +82,7 @@
 | [0743-network-delay-time](https://github.com/harsha-0714/DSA_Solved/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/harsha-0714/DSA_Solved/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/harsha-0714/DSA_Solved/tree/master/1020-number-of-enclaves) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harsha-0714/DSA_Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/harsha-0714/DSA_Solved/tree/master/3310-remove-methods-from-project) |
@@ -102,6 +104,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/harsha-0714/DSA_Solved/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/harsha-0714/DSA_Solved/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/harsha-0714/DSA_Solved/tree/master/1020-number-of-enclaves) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harsha-0714/DSA_Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/harsha-0714/DSA_Solved/tree/master/3310-remove-methods-from-project) |
@@ -216,6 +219,7 @@
 | [0542-01-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harsha-0714/DSA_Solved/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/harsha-0714/DSA_Solved/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/harsha-0714/DSA_Solved/tree/master/1020-number-of-enclaves) |
 ## Algorithm X
 |  |
 | ------- |
@@ -238,6 +242,7 @@
 | [0130-surrounded-regions](https://github.com/harsha-0714/DSA_Solved/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harsha-0714/DSA_Solved/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/harsha-0714/DSA_Solved/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Two Pointers
 |  |
