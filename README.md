@@ -76,6 +76,7 @@
 | [0130-surrounded-regions](https://github.com/harsha-0714/DSA_Solved/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/harsha-0714/DSA_Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/harsha-0714/DSA_Solved/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harsha-0714/DSA_Solved/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
@@ -100,6 +101,7 @@
 | [0130-surrounded-regions](https://github.com/harsha-0714/DSA_Solved/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/harsha-0714/DSA_Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/harsha-0714/DSA_Solved/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/0542-01-matrix) |
@@ -193,6 +195,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/harsha-0714/DSA_Solved/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/harsha-0714/DSA_Solved/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/harsha-0714/DSA_Solved/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/harsha-0714/DSA_Solved/tree/master/0785-is-graph-bipartite) |
@@ -204,6 +207,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/harsha-0714/DSA_Solved/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/harsha-0714/DSA_Solved/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harsha-0714/DSA_Solved/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
@@ -247,6 +251,7 @@
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/harsha-0714/DSA_Solved/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/harsha-0714/DSA_Solved/tree/master/0797-all-paths-from-source-to-target) |
 ## Union-Find
 |  |
