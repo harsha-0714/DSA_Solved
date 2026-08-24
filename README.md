@@ -18,6 +18,7 @@
 | [1020-number-of-enclaves](https://github.com/harsha-0714/DSA_Solved/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/harsha-0714/DSA_Solved/tree/master/1386-cinema-seat-allocation) |
+| [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
 | [2951-find-the-peaks](https://github.com/harsha-0714/DSA_Solved/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harsha-0714/DSA_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -91,6 +92,7 @@
 | [0802-find-eventual-safe-states](https://github.com/harsha-0714/DSA_Solved/tree/master/0802-find-eventual-safe-states) |
 | [0993-cousins-in-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/harsha-0714/DSA_Solved/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harsha-0714/DSA_Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/harsha-0714/DSA_Solved/tree/master/3310-remove-methods-from-project) |
@@ -120,6 +122,7 @@
 | [0994-rotting-oranges](https://github.com/harsha-0714/DSA_Solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/harsha-0714/DSA_Solved/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/harsha-0714/DSA_Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/harsha-0714/DSA_Solved/tree/master/3310-remove-methods-from-project) |
@@ -146,6 +149,7 @@
 | [0098-validate-binary-search-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/harsha-0714/DSA_Solved/tree/master/0162-find-peak-element) |
+| [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
 ## Stack
 |  |
 | ------- |
@@ -170,6 +174,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harsha-0714/DSA_Solved/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/harsha-0714/DSA_Solved/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -248,6 +253,7 @@
 | [0994-rotting-oranges](https://github.com/harsha-0714/DSA_Solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/harsha-0714/DSA_Solved/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
 ## Algorithm X
 |  |
 | ------- |
@@ -273,6 +279,7 @@
 | [0547-number-of-provinces](https://github.com/harsha-0714/DSA_Solved/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/harsha-0714/DSA_Solved/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harsha-0714/DSA_Solved/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Two Pointers
 |  |
@@ -300,6 +307,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/harsha-0714/DSA_Solved/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
 ## Memoization
 |  |
 | ------- |
