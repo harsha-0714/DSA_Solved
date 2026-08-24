@@ -99,6 +99,7 @@
 | [0101-symmetric-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harsha-0714/DSA_Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/harsha-0714/DSA_Solved/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/harsha-0714/DSA_Solved/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/harsha-0714/DSA_Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/harsha-0714/DSA_Solved/tree/master/0037-sudoku-solver) |
+| [0127-word-ladder](https://github.com/harsha-0714/DSA_Solved/tree/master/0127-word-ladder) |
 | [1386-cinema-seat-allocation](https://github.com/harsha-0714/DSA_Solved/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harsha-0714/DSA_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -273,6 +275,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/harsha-0714/DSA_Solved/tree/master/0127-word-ladder) |
 | [1927-sum-game](https://github.com/harsha-0714/DSA_Solved/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harsha-0714/DSA_Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harsha-0714/DSA_Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -311,4 +314,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/harsha-0714/DSA_Solved/tree/master/0785-is-graph-bipartite) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/harsha-0714/DSA_Solved/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
