@@ -8,6 +8,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/harsha-0714/DSA_Solved/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/harsha-0714/DSA_Solved/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/harsha-0714/DSA_Solved/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/harsha-0714/DSA_Solved/tree/master/0239-sliding-window-maximum) |
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/harsha-0714/DSA_Solved/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/harsha-0714/DSA_Solved/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/harsha-0714/DSA_Solved/tree/master/0787-cheapest-flights-within-k-stops) |
