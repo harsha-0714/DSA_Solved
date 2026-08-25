@@ -31,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/harsha-0714/DSA_Solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harsha-0714/DSA_Solved/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harsha-0714/DSA_Solved/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/harsha-0714/DSA_Solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harsha-0714/DSA_Solved/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/harsha-0714/DSA_Solved/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0509-fibonacci-number) |
@@ -347,4 +349,8 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/harsha-0714/DSA_Solved/tree/master/0127-word-ladder) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harsha-0714/DSA_Solved/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
