@@ -6,6 +6,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/harsha-0714/DSA_Solved/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/harsha-0714/DSA_Solved/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0063-unique-paths-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/harsha-0714/DSA_Solved/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/harsha-0714/DSA_Solved/tree/master/0162-find-peak-element) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/harsha-0714/DSA_Solved/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/harsha-0714/DSA_Solved/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/harsha-0714/DSA_Solved/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/harsha-0714/DSA_Solved/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0509-fibonacci-number) |
@@ -259,6 +261,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/harsha-0714/DSA_Solved/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/harsha-0714/DSA_Solved/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
