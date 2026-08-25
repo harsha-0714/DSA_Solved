@@ -1,16 +1,13 @@
 class Solution {
     public int climbStairs(int n) {
-        int[] dp = new int[n+1];
-        Arrays.fill(dp,-1);
-        return memoFunc(n,dp);
-    }
-    private int memoFunc(int n , int[] dp){
-        if(n <= 2){
-            return n;
+        if(n == 1) return 1;
+        int prev1 = 1;
+        int prev2 = 2;
+        for(int i = 3;i<=n;i++){
+            int curr = prev1+prev2;
+            prev1 = prev2;
+            prev2 = curr;
         }
-        if(dp[n] != -1){
-            return dp[n];
-        }
-        return dp[n]= memoFunc(n-1,dp)+memoFunc(n-2,dp);
+        return prev2;
     }
 }
