@@ -182,6 +182,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harsha-0714/DSA_Solved/tree/master/0239-sliding-window-maximum) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harsha-0714/DSA_Solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harsha-0714/DSA_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harsha-0714/DSA_Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
@@ -311,6 +312,7 @@
 | [0126-word-ladder-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/harsha-0714/DSA_Solved/tree/master/0127-word-ladder) |
 | [1927-sum-game](https://github.com/harsha-0714/DSA_Solved/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harsha-0714/DSA_Solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harsha-0714/DSA_Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harsha-0714/DSA_Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
