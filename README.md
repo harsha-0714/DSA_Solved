@@ -23,6 +23,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/harsha-0714/DSA_Solved/tree/master/1386-cinema-seat-allocation) |
 | [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2951-find-the-peaks](https://github.com/harsha-0714/DSA_Solved/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harsha-0714/DSA_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -223,6 +224,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/3731-find-missing-elements) |
 ## Graph Theory
@@ -304,6 +306,7 @@
 | [1020-number-of-enclaves](https://github.com/harsha-0714/DSA_Solved/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
 | ------- |
