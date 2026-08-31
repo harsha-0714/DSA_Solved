@@ -70,6 +70,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harsha-0714/DSA_Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/harsha-0714/DSA_Solved/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harsha-0714/DSA_Solved/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/harsha-0714/DSA_Solved/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
 | ------- |
