@@ -410,4 +410,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/harsha-0714/DSA_Solved/tree/master/1584-min-cost-to-connect-all-points) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/harsha-0714/DSA_Solved/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
