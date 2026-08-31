@@ -1,33 +1,46 @@
 class Solution {
+    class UF{
+        int[] p;
+        int[] rank;
+        UF(int n){
+            p = new int[n];
+            rank = new int[n];
+            for(int i = 0;i<n;i++){
+                p[i] = i;
+                rank[i] = 1;
+            }
+        }
+        int find(int u){
+            if(p[u] == u) return u;
+            return find(p[u]);
+        }
+        void merge(int r1 , int r2){
+            if(r1 == r2) return;
+            if(rank[r1] < rank[r2]){
+                int temp = r1;
+                r1 = r2;
+                r2 = temp;
+            }
+            p[r2] = r1;
+            rank[r1] = Math.max(rank[r1], 1+rank[r2]);
+        }
+    }
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
-        List<List<Integer>> list = new ArrayList<>();
+        UF uf = new UF(n);
         for(int i = 0;i<n;i++){
-            list.add(new ArrayList<>());
-        }
-        for(int i = 0;i<n;i++){
-            for(int j = 0;j<n;j++){
-                if(isConnected[i][j] == 1 && i != j){
-                    list.get(i).add(j);
+            for(int j = i+1;j<n;j++){
+                if(isConnected[i][j] == 1){
+                    int r1 = uf.find(i);
+                    int r2 = uf.find(j);
+                    uf.merge(r1,r2);
                 }
             }
         }
-        boolean[] vis = new boolean[n];
-        int cnt = 0;
+        Set<Integer> set = new HashSet<>();
         for(int i = 0;i<n;i++){
-            if(!vis[i]){
-                cnt++;
-                dfs(vis,list,i);
-            }
+            set.add(uf.find(i));
         }
-        return cnt;
-    }
-    public void dfs(boolean[] vis,List<List<Integer>> list,int src){
-        vis[src] = true;
-        for(int i : list.get(src)){
-            if(!vis[i]){
-                dfs(vis,list,i);
-            }
-        }
+        return set.size();
     }
 }
