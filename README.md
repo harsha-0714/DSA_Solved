@@ -417,6 +417,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/harsha-0714/DSA_Solved/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/harsha-0714/DSA_Solved/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/harsha-0714/DSA_Solved/tree/master/0584-find-customer-referee) |
+| [0620-not-boring-movies](https://github.com/harsha-0714/DSA_Solved/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/harsha-0714/DSA_Solved/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/harsha-0714/DSA_Solved/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/harsha-0714/DSA_Solved/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
