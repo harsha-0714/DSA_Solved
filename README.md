@@ -34,6 +34,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/harsha-0714/DSA_Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -441,4 +442,8 @@
 | [1789-primary-department-for-each-employee](https://github.com/harsha-0714/DSA_Solved/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/harsha-0714/DSA_Solved/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/harsha-0714/DSA_Solved/tree/master/1934-confirmation-rate) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
