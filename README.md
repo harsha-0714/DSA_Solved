@@ -332,11 +332,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/harsha-0714/DSA_Solved/tree/master/0125-valid-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harsha-0714/DSA_Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/harsha-0714/DSA_Solved/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/harsha-0714/DSA_Solved/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/harsha-0714/DSA_Solved/tree/master/0127-word-ladder) |
 | [1927-sum-game](https://github.com/harsha-0714/DSA_Solved/tree/master/1927-sum-game) |
