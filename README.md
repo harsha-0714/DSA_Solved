@@ -57,6 +57,7 @@
 | [0063-unique-paths-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/harsha-0714/DSA_Solved/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/harsha-0714/DSA_Solved/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/harsha-0714/DSA_Solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/harsha-0714/DSA_Solved/tree/master/0403-frog-jump) |
@@ -335,6 +336,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/harsha-0714/DSA_Solved/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/harsha-0714/DSA_Solved/tree/master/0127-word-ladder) |
 | [1927-sum-game](https://github.com/harsha-0714/DSA_Solved/tree/master/1927-sum-game) |
