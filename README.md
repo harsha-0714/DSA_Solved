@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsha-0714/DSA_Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/harsha-0714/DSA_Solved/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/harsha-0714/DSA_Solved/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harsha-0714/DSA_Solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -248,6 +249,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/0056-merge-intervals) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/3731-find-missing-elements) |
@@ -471,4 +473,8 @@
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/3904-smallest-stable-index-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
