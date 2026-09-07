@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harsha-0714/DSA_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harsha-0714/DSA_Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/harsha-0714/DSA_Solved/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/harsha-0714/DSA_Solved/tree/master/0053-maximum-subarray) |
@@ -338,6 +339,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/harsha-0714/DSA_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harsha-0714/DSA_Solved/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsha-0714/DSA_Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/harsha-0714/DSA_Solved/tree/master/0876-middle-of-the-linked-list) |
