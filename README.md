@@ -67,6 +67,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/harsha-0714/DSA_Solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0940-distinct-subsequences-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harsha-0714/DSA_Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harsha-0714/DSA_Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
@@ -345,6 +346,7 @@
 | [0125-valid-palindrome](https://github.com/harsha-0714/DSA_Solved/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/harsha-0714/DSA_Solved/tree/master/0127-word-ladder) |
+| [0940-distinct-subsequences-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/harsha-0714/DSA_Solved/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/harsha-0714/DSA_Solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harsha-0714/DSA_Solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
