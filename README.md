@@ -38,6 +38,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harsha-0714/DSA_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harsha-0714/DSA_Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harsha-0714/DSA_Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harsha-0714/DSA_Solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harsha-0714/DSA_Solved/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -77,6 +78,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0940-distinct-subsequences-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harsha-0714/DSA_Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harsha-0714/DSA_Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0162-find-peak-element](https://github.com/harsha-0714/DSA_Solved/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsha-0714/DSA_Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -261,6 +264,7 @@
 | [0056-merge-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/0056-merge-intervals) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/3731-find-missing-elements) |
 ## Graph Theory
 |  |
