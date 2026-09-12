@@ -461,6 +461,7 @@
 | [0619-biggest-single-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/harsha-0714/DSA_Solved/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/harsha-0714/DSA_Solved/tree/master/1045-customers-who-bought-all-products) |
+| [1068-product-sales-analysis-i](https://github.com/harsha-0714/DSA_Solved/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/harsha-0714/DSA_Solved/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/harsha-0714/DSA_Solved/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/harsha-0714/DSA_Solved/tree/master/1164-product-price-at-a-given-date) |
