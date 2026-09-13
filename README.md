@@ -24,6 +24,7 @@
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harsha-0714/DSA_Solved/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/harsha-0714/DSA_Solved/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/harsha-0714/DSA_Solved/tree/master/0994-rotting-oranges) |
@@ -317,6 +318,7 @@
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harsha-0714/DSA_Solved/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/harsha-0714/DSA_Solved/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/harsha-0714/DSA_Solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/harsha-0714/DSA_Solved/tree/master/1020-number-of-enclaves) |
