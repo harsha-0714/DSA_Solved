@@ -52,6 +52,7 @@
 | [0062-unique-paths](https://github.com/harsha-0714/DSA_Solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harsha-0714/DSA_Solved/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/harsha-0714/DSA_Solved/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/harsha-0714/DSA_Solved/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harsha-0714/DSA_Solved/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -493,4 +494,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/0056-merge-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/harsha-0714/DSA_Solved/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
