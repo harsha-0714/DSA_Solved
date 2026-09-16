@@ -54,6 +54,7 @@
 | [0509-fibonacci-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/harsha-0714/DSA_Solved/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harsha-0714/DSA_Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/harsha-0714/DSA_Solved/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harsha-0714/DSA_Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harsha-0714/DSA_Solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -79,6 +80,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0940-distinct-subsequences-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harsha-0714/DSA_Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harsha-0714/DSA_Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harsha-0714/DSA_Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
@@ -428,6 +430,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harsha-0714/DSA_Solved/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harsha-0714/DSA_Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Counting
 |  |
 | ------- |
@@ -489,6 +492,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harsha-0714/DSA_Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3904-smallest-stable-index-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/3904-smallest-stable-index-ii) |
 ## Quicksort
 |  |
