@@ -213,6 +213,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harsha-0714/DSA_Solved/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harsha-0714/DSA_Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harsha-0714/DSA_Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harsha-0714/DSA_Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -381,6 +382,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harsha-0714/DSA_Solved/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/harsha-0714/DSA_Solved/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/harsha-0714/DSA_Solved/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0126-word-ladder-ii) |
@@ -524,6 +526,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harsha-0714/DSA_Solved/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harsha-0714/DSA_Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harsha-0714/DSA_Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
