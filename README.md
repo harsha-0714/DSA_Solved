@@ -36,6 +36,7 @@
 | [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harsha-0714/DSA_Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harsha-0714/DSA_Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harsha-0714/DSA_Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harsha-0714/DSA_Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -212,6 +213,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harsha-0714/DSA_Solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harsha-0714/DSA_Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harsha-0714/DSA_Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
@@ -287,6 +289,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/0056-merge-intervals) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/harsha-0714/DSA_Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
