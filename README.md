@@ -49,6 +49,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/harsha-0714/DSA_Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harsha-0714/DSA_Solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harsha-0714/DSA_Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harsha-0714/DSA_Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harsha-0714/DSA_Solved/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -155,6 +156,7 @@
 | [2360-longest-cycle-in-a-graph](https://github.com/harsha-0714/DSA_Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/harsha-0714/DSA_Solved/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harsha-0714/DSA_Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [2360-longest-cycle-in-a-graph](https://github.com/harsha-0714/DSA_Solved/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/harsha-0714/DSA_Solved/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harsha-0714/DSA_Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -357,6 +360,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harsha-0714/DSA_Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Algorithm X
 |  |
 | ------- |
@@ -388,6 +392,7 @@
 | [1631-path-with-minimum-effort](https://github.com/harsha-0714/DSA_Solved/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/harsha-0714/DSA_Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/harsha-0714/DSA_Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
