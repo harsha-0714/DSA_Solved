@@ -22,6 +22,7 @@
 | [0239-sliding-window-maximum](https://github.com/harsha-0714/DSA_Solved/tree/master/0239-sliding-window-maximum) |
 | [0403-frog-jump](https://github.com/harsha-0714/DSA_Solved/tree/master/0403-frog-jump) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/harsha-0714/DSA_Solved/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harsha-0714/DSA_Solved/tree/master/0733-flood-fill) |
@@ -61,6 +62,7 @@
 | [0062-unique-paths](https://github.com/harsha-0714/DSA_Solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harsha-0714/DSA_Solved/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/harsha-0714/DSA_Solved/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/0056-merge-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harsha-0714/DSA_Solved/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
