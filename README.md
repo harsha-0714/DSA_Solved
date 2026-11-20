@@ -47,6 +47,7 @@
 | [2951-find-the-peaks](https://github.com/harsha-0714/DSA_Solved/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/harsha-0714/DSA_Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/harsha-0714/DSA_Solved/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harsha-0714/DSA_Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harsha-0714/DSA_Solved/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harsha-0714/DSA_Solved/tree/master/3364-minimum-positive-sum-subarray) |
@@ -103,6 +104,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/harsha-0714/DSA_Solved/tree/master/0940-distinct-subsequences-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harsha-0714/DSA_Solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harsha-0714/DSA_Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/harsha-0714/DSA_Solved/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/harsha-0714/DSA_Solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
@@ -317,6 +319,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harsha-0714/DSA_Solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/harsha-0714/DSA_Solved/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/harsha-0714/DSA_Solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/harsha-0714/DSA_Solved/tree/master/3731-find-missing-elements) |
 ## Graph Theory
