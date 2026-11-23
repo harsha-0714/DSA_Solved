@@ -33,6 +33,7 @@
 | [1020-number-of-enclaves](https://github.com/harsha-0714/DSA_Solved/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harsha-0714/DSA_Solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/harsha-0714/DSA_Solved/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/harsha-0714/DSA_Solved/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/harsha-0714/DSA_Solved/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harsha-0714/DSA_Solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1584-min-cost-to-connect-all-points](https://github.com/harsha-0714/DSA_Solved/tree/master/1584-min-cost-to-connect-all-points) |
@@ -72,6 +73,7 @@
 | [0509-fibonacci-number](https://github.com/harsha-0714/DSA_Solved/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/harsha-0714/DSA_Solved/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/harsha-0714/DSA_Solved/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/harsha-0714/DSA_Solved/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harsha-0714/DSA_Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/harsha-0714/DSA_Solved/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/harsha-0714/DSA_Solved/tree/master/2409-count-days-spent-together) |
@@ -570,6 +572,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/harsha-0714/DSA_Solved/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harsha-0714/DSA_Solved/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/harsha-0714/DSA_Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harsha-0714/DSA_Solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -602,4 +605,12 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/harsha-0714/DSA_Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/harsha-0714/DSA_Solved/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/harsha-0714/DSA_Solved/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
